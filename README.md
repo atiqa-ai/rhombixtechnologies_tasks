@@ -47,7 +47,7 @@ This program listens to your voice commands, speaks back, and performs real-time
 
 🗨️ “Quit”
 
-# 2.Fabonacci generaotr
+# 2.Fabonacci generator
 The Fibonacci Generator is a Python program that generates Fibonacci numbers using the yield keyword.
 Instead of creating the entire sequence at once, it produces each number one-by-one — making it fast, memory-efficient, and elegant.
 
